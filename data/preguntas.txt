@@ -1,0 +1,15 @@
+ID,Question
+1,¿En qué película aparecen los personajes 'The Chosen One' y 'The Victim'?
+2,¿En qué serie se usa el programa ViraBot?
+3,¿El proyecto Main Ground Combat System se inició en España?
+4,¿Notre-Dame de Clignancourt es una película?
+5,¿Felix-Joseph Barris es un actor de Animator vs. Animation?
+6,¿Qué se anexó a Paris en 1860?
+7,¿Quién pintó escenas de la vida de la Virgen María en la Capilla de la Virgen?
+8,¿El hermano menor de Shushama Das se llama Ramkanai Das?
+9,¿Qué se eligió en las elecciones del 1 de abril de 2025 en Florida?
+10,¿Takeshi Kovacs es una persona real?
+11,¿De qué trabajó Felix-Joseph Barris en la Capilla de la Virgen?
+12,¿Cuántos años tenía Shushama Das al morir?
+13,¿Quién ganó las elecciones del 1 de abril de 2025 en Florida?
+14,¿Es una buena idea hacerse amigo de Takeshi Kovacs?

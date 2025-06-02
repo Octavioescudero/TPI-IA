@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "created_at": "2025-06-02 02:03:52",
+    "total_articles": 50,
+    "fragment_params": {
+      "max_length": 300,
+      "min_length": 50,
+      "overlap": 50
+    },
+    "successful_articles": 37,
+    "failed_articles": 13,
+    "total_fragments": 138,
+    "total_characters": 29166
+  },
+  "statistics": {
+    "total_articles": 50,
+    "successful_downloads": 37,
+    "failed_downloads": 13,
+    "total_fragments": 138,
+    "total_characters": 29166
+  }
+}
